@@ -1,0 +1,17 @@
+{
+  "name": "api-tp-school",
+  "version": "1.0.0",
+  "description": "backend tp api\u001b[D\u001b[D\u001b[D\u001b[D-school edacy\u001b[D\u001b[D\u001b[D\u001b[E",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gorgui",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "gwalk-lib": "^1.0.0"
+  }
+}
