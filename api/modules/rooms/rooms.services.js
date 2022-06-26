@@ -2,7 +2,7 @@ const Rooms = require('./room.repository');
 const Room = require('./room.model');
 
 
-let rooms = new Rooms();
+module.exports = rooms = new Rooms();
 let r1 = new Room(1, "TL2 A");
 let r2 = new Room(2, "TS2 B");
 let r3 = new Room(3, "TL'1 A");

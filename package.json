@@ -2,8 +2,9 @@
   "name": "api-tp-school",
   "version": "1.0.0",
   "description": "backend tp api\u001b[D\u001b[D\u001b[D\u001b[D-school edacy\u001b[D\u001b[D\u001b[D\u001b[E",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Gorgui",
